@@ -1,2 +1,2 @@
-# heatmapsample
-Sample of heat map made with Folium
+# Folium Samples
+Samples of work done using Folium
