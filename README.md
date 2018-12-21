@@ -2,11 +2,11 @@
 These samples were completed in R using a combination of a variety of packages including Shiny, Leaflet, and Plot.ly.
 
 1. <b>Storytelling with Zillow Data: https://stevene97.shinyapps.io/Zillow_Data/</b>
--- (link to repository with code in R: https://github.com/stevene97/zillow_data)
+ (link to repository with code in R: https://github.com/stevene97/zillow_data)
 
 
 2. <b>Final Class Project: Looking at sanitary violations around Harvard Square:</b> https://stevene97.shinyapps.io/Gov1005_Final_Project/
--- (link to repository with code in R: https://github.com/stevene97/gov-1005-final-project)
+ (link to repository with code in R: https://github.com/stevene97/gov-1005-final-project)
 
 
 3. Traffic Analysis (work with the City of Cambridge): https://sespinoza-cambridgema.shinyapps.io/traffic-data/
