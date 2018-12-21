@@ -25,4 +25,4 @@ A compilation of data visualizations/analyses, completed mostly with Python. Fou
 4. <b>Basic Regression Analysis (sample, code):</b>
 https://nbviewer.jupyter.org/github/stevene97/datavizsamples/blob/master/Predicting%20Social%20Progress%20Index%20in%20Latin%20America.ipynb
 
-Most of these are simply samples with lots of code and few comments, with the idea that the visualizations would be shared on other platforms. For example, interactive Folium maps are saved as HTML code and are intended for websites, while the plots with Matplotlib are intended to be saved as PNG images and used for Word documents or PowerPoint presentations. Actual Jupyter notebooks I regularly work on (with ample annotations, comments, etc.) are mostly done for internal use and are not meant to be public.
+Most of these are simply samples with lots of code and few comments, with the idea that the visualizations would be shared on other platforms. For example, interactive Folium maps are saved as HTML code and are intended for websites, while the plots with Matplotlib are intended to be saved as PNG images and used for Word documents or PowerPoint presentations.
