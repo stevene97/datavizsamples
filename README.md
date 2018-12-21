@@ -16,7 +16,7 @@ Another example of data visualization using R/Shiny.
 A compilation of data visualizations/analyses, completed mostly with Python. Found below are links that increase the interactivity of the maps made with Folium:
 
 1. <b>Buenos Aires Work: https://nbviewer.jupyter.org/github/stevene97/datavizsamples/blob/master/geocoding_junio.ipynb</b>
-Sample of code used in Python to create a map showing different claims filed by citizens throughout the city. A website containing these maps as a final product for the city is given at https://sites.google.com/view/gcbareclamos-mapas/
+- Sample of code used in Python to create a map showing different claims filed by citizens throughout the city. A website containing these maps as a final product for the city is given at https://sites.google.com/view/gcbareclamos-mapas/
 
 2. <b>Choropleth Map:</b> https://nbviewer.jupyter.org/github/stevene97/datavizsamples/blob/master/2016%20Primary%20Voter%20Turnout%20in%20Hialeah%20and%20Hialeah%20Gardens.ipynb
 
